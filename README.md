@@ -2,7 +2,7 @@
 
 In 2019 after building an eCommerce app, I wondered if I could replace a third party eCommerce API with one of my own creation. I created this prototype to test that idea.
 
- **This code was never intended to be put into production. It was a proof of concept and so development speed was primary**
+**This code was never intended to be put into production. It was a proof of concept and so development speed was primary**
 
 ## Stack
 
@@ -16,6 +16,11 @@ The backend is a simple REST API built with Node.
 -   Database: PostgreSQL
 -   Image processing: SharpJS
 -   Image Storage: AWS S3
+
+#### Things of Note:
+
+-   I spent some time researching and building the database Schema. You can find the models [here](https://github.com/BenSaus/Minion-Prototype/tree/master/backend/models)
+-   I often used seed data. You can look through that [here](https://github.com/BenSaus/Minion-Prototype/tree/master/backend/seeders)
 
 ### Dashboard
 

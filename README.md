@@ -2,7 +2,7 @@
 
 In 2019 after building an eCommerce app, I wondered if I could replace a third party eCommerce API with one of my own creation. I created this prototype to test that idea.
 
-** This code was never intended to be put into production. It was a proof of concept and so development speed was primary **
+ **This code was never intended to be put into production. It was a proof of concept and so development speed was primary**
 
 ## Stack
 

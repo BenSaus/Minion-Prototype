@@ -40,8 +40,8 @@ The dashboard is a VueJS single page application intended to give site owner's t
 
 The frontend is also a VueJS single page application built to ensure the API provided required functionality.
 
-![products](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/frontend/screenshots/minionFrontend-Cart.png)
-![orderDetail](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/frontend/screenshots/minionFrontend-ProductDetails.png)
+![productDetail](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/frontend/screenshots/minionFrontend-ProductDetails.png)
+![shoppingCart](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/frontend/screenshots/minionFrontend-Cart.png)
 
 ### Stack and Libaries
 

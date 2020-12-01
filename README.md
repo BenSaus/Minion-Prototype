@@ -2,7 +2,7 @@
 
 In 2019 after building an eCommerce app, I wondered if I could replace a third party eCommerce API with one of my own creation. I created this prototype to test that idea.
 
-**This code was never intended to be put into production. As such it lacks any polish or error checking.**
+**This code was never intended to be put into production. As such it lacks any polish, tests, or error checking.**
 
 ## Stack
 

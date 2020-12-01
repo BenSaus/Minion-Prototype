@@ -25,6 +25,9 @@ The backend is a simple Express REST API built with Node.
 
 The dashboard is a VueJS single page application intended to give site owner's the ability to modify their product data.
 
+![products](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/dashboard/screenshots/minionDashboard.png)
+![orderDetail](https://raw.githubusercontent.com/BenSaus/Minion-Prototype/master/dashboard/screenshots/minionDashboardOrder.png)
+
 -   Javascript Framework: VueJS v2
 -   CSS Framework: BootstrapVue and SASS
 -   HTTP Request Framework: Request
